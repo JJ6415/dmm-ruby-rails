@@ -1,0 +1,2 @@
+webcamp = :"프로그래밍 학습"
+puts webcamp.class()
